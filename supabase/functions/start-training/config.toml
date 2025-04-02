@@ -1,0 +1,5 @@
+[functions.start-training]
+verify_jwt = true
+
+
+
